@@ -1,0 +1,6 @@
+img { border: 1px solid #ccc; }
+   .edge {
+    image-rendering: -moz-crisp-edges; /* Firefox */
+    -ms-interpolation-mode: nearest-neighbor;  /* IE */
+    image-rendering: crisp-edges; /* Стандартное свойство */
+   }
