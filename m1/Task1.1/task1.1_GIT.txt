@@ -1,0 +1,15 @@
+de94e00 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+53e9302 HEAD@{1}: checkout: moving from develop to main
+de94e00 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): Solve the conflict in index file
+44752e3 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+3ae2709 HEAD@{4}: checkout: moving from styles to develop
+5a22a9d (origin/styles, styles) HEAD@{5}: commit: add styles
+3ae2709 HEAD@{6}: checkout: moving from develop to styles
+3ae2709 HEAD@{7}: checkout: moving from images to develop
+44752e3 (origin/images, images) HEAD@{8}: commit: Add images to index file
+af2ca06 HEAD@{9}: commit: Add images
+3ae2709 HEAD@{10}: checkout: moving from develop to images
+3ae2709 HEAD@{11}: commit: Add index.html
+53e9302 HEAD@{12}: checkout: moving from main to develop
+53e9302 HEAD@{13}: commit: Init commit
+3685378 HEAD@{14}: clone: from https://github.com/sergiikapusta/DevOps_online_Kyiv2020Q4-2021Q1.git
