@@ -4,7 +4,7 @@
 ## Create an instance
 ![alt text](s1.JPG)
 ## Select your instance location
-![alt text](s2.JPG)
+![alt text](s2JPG)
 ## Ssh connect
 ![alt text](s3.JPG)
 ## Instances
@@ -48,7 +48,7 @@
 ## Error
 ![alt text](s23.JPG)
 ## Links
-[alt text](http://skapysta.com.s3-website.eu-central-1.amazonaws.com/
-[alt text](http://skapysta.com.s3-website.eu-central-1.amazonaws.com/error.html
+[alt text](http://skapysta.com.s3-website.eu-central-1.amazonaws.com/)
+[alt text](http://skapysta.com.s3-website.eu-central-1.amazonaws.com/error.html)
 
 
