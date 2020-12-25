@@ -48,7 +48,7 @@
 ## Error
 ![alt text](s23.JPG)
 ## Links
-[alt text](http://skapysta.com.s3-website.eu-central-1.amazonaws.com/)
-[alt text](http://skapysta.com.s3-website.eu-central-1.amazonaws.com/error.html)
+[HTML site : html page](http://skapysta.com.s3-website.eu-central-1.amazonaws.com/)
+[HTML site : error page](http://skapysta.com.s3-website.eu-central-1.amazonaws.com/error.html)
 
 
