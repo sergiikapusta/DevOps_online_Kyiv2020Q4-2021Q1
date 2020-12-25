@@ -9,7 +9,7 @@
 ![alt text](s3.png)
 ## Export VM1
 ![alt text](s4.png)
-##Import VM
+## Import VM
 ![alt text](s5.png)
 ## VBoxManage list vms
 ![alt text](s6.png)
