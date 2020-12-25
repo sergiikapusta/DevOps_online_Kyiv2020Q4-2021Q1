@@ -1,17 +1,17 @@
 # Module 2 Virtualization and Cloud Basic
 # TASK 2.1
 
-CloneVM1
-s1.png
-Configure the USB
+##CloneVM1
+![alt text](s1.png)
+##Configure the USB
 s2.png
-Create a group, Snapshts
+##reate a group, Snapshts
 s3.png
-Export VM1
+##Export VM1
 s4.png
-Import VM
+##Import VM
 s5.png
-VBoxManage list vms
+##VBoxManage list vms
 s6.png
 Table of possible connections
 s7.png
