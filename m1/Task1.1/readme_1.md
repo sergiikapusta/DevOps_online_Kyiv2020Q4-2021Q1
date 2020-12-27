@@ -2,18 +2,18 @@
 # TASK 1.1
 
 ## 1. Install GIT
-![alt text](1. Install GIT.png)
+![alt text](s1.png)
 ## 2. Setup GIT
-![alt text](2. Setup GIT.png)
+![alt text](s2.png)
 ## 3. Create account on GitHub
-![alt text](3. Create account on GitHub.png)
+![alt text](s3.png)
 ## 4. Create new private repo on GitHub
-![alt text](4. Create new private repo on GitHub.png)
+![alt text](s4.png)
 ## 10. Make init commit
-![alt text](10. Make init commit.png)
+![alt text](s5.png)
 ## 11. Create develop branch and chekout
-![alt text](11. Create develop branch and chekout.png)
+![alt text](s6.png)
 ## 11-13Create index.html, Create brabch Image
-![alt text](11-13Create index.html, Create brabch Image.png)
+![alt text](s7.png)
 ## log
 ![alt text](log.png)
