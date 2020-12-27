@@ -2,36 +2,35 @@
 # TASK 3.1
 
 ## install mysql-server
-![alt text](install mysql-server.png)
+![alt text](s1.png)
 ## describe the database schema
-![alt text](describe the database schema.png)
+![alt text](s2.png)
 ## Fill in tables
-![alt text](Fill in tables.png)
+![alt text](s3.png)
 ## Construct and execute SELECT operator with WHERE, GROUP BY and ORDER BY
-![alt text](Construct and execute SELECT operator with WHERE, GROUP BY and ORDER BY.png)
+![alt text](s4.png)
 ## DDL
-![alt text](DDL.png)
+![alt text](s5.png)
 ## DML-Update
-![alt text](DML-Update.png)
+![alt text](s6.png)
 ## DCL
-![alt text](DCL.png)
+![alt text](s7.png)
 ## SHOW GRANTS FOR user@localhost
-![alt text](SHOW GRANTS FOR user@localhost.png)
+![alt text](s8.png)
 ## Connect to the database as a new user and verify that the privileges allow or deny certain actions
-![alt text](Connect to the database as a new user and verify that the privileges allow or deny certain actions.png)
+![alt text](s9.png)
 ## selection from the main table DB MySQL
-![alt text](selection from the main table DB MySQL.png)
+![alt text](s10.png)
 ## selection from the main table DB MySQL
-![alt text](selection from the main table DB MySQL.png)
-## Backup of your database
-![alt text](Backup of your database.png)
+![alt text](s11.png)
+## drop
+![alt text](s12.png)
 ## Delete the table
-![alt text](sDelete the table.png)
+![alt text](s13.png)
 ## Restore database
-![alt text](Restore database.png)
+![alt text](Rs14.png)
 ## Create an Amazon DynamoDB table
-![alt text](Create an Amazon DynamoDB table.png)
+![alt text](s15.png)
 ## Enter data into an Amazon DynamoDB table
-![alt text](Enter data into an Amazon DynamoDB table.png)
+![alt text](s16.png)
 ## Query an Amazon DynamoDB table using Query and Scan
-![alt text](Query an Amazon DynamoDB table using Query and Scan.png)
