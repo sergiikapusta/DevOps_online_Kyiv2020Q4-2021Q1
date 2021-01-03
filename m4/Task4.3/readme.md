@@ -4,6 +4,6 @@
 ## 1
 ![alt text](1.PNG)
 ## RIP Configuration
-![alt text](RIP Configuration.PNG)
+![alt text](Ripconfiguration.PNG)
 ## Router 0 Ip Configuration
-![alt text](Router 0 Ip Configuration.PNG)
+![alt text](Router0ipconfiguration.PNG)

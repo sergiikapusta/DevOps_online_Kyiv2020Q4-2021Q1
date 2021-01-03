@@ -4,9 +4,9 @@
 ## Ping
 ![alt text](Ping.PNG)
 ## VLAN bud1
-![alt text](VLAN bud1.PNG)
+![alt text](Vlanbud1.PNG)
 ## VLAN bud2
-![alt text](VLAN bud2.PNG)
+![alt text](Vlanbud2.PNG)
 ## 1
 ![alt text](1.PNG)
 
