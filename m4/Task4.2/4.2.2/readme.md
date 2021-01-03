@@ -2,9 +2,9 @@
 # TASK 4.2.2
 
 ## 1
-![alt text](1.png)
+![alt text](1.PNG)
 ## 2
-![alt text](2.png)
+![alt text](2.PNG)
 ## VLAN bud2
 
 

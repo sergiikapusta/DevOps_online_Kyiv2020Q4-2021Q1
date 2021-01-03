@@ -2,5 +2,5 @@
 # TASK 4.4.1
 
 ## 1
-![alt text](1.png)
+![alt text](1.PNG)
 

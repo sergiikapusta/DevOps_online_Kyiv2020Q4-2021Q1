@@ -2,13 +2,13 @@
 # TASK 4.2.1
 
 ## Ping
-![alt text](Ping.png)
+![alt text](Ping.PNG)
 ## VLAN bud1
-![alt text](VLAN bud1.png)
+![alt text](VLAN bud1.PNG)
 ## VLAN bud2
-![alt text](VLAN bud2.png)
+![alt text](VLAN bud2.PNG)
 ## 1
-![alt text](1.png)
+![alt text](1.PNG)
 
 
 

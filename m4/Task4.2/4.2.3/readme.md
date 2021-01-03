@@ -2,4 +2,4 @@
 # TASK 4.2.3
 
 ## 1
-![alt text](1.png)
+![alt text](1.PNG)

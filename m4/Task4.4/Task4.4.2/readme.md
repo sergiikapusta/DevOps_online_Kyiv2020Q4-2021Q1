@@ -2,8 +2,8 @@
 # TASK 4.3
 
 ## 1
-![alt text](1.png)
+![alt text](1.PNG)
 ## httpwwwsitecom
-![alt text](httpwwwsitecom.png)
+![alt text](httpwwwsitecom.PNG)
 ## Pingwwwsitecom
-![alt text](Pingwwwsitecom.png)
+![alt text](Pingwwwsitecom.PNG)

@@ -1,32 +1,32 @@
 # Module 4 Virtualization and Cloud Basic
 # TASK 4.1
 
-## 1Project2
-![alt text](1Project2.png)
+## Project2
+![alt text](Project2.PNG)
 ## ICMP5
-![alt text](ICMP5.png)
+![alt text](ICMP5.PNG)
 ## Simulation Panel6
-![alt text](Simulation Panel6.png)
+![alt text](Simulation Panel6.PNG)
 ## OSI7
-![alt text](OSI7.png)
+![alt text](OSI7.PNG)
 ## ICMP8
-![alt text](ICMP8.png)
+![alt text](ICMP8.PNG)
 ## Simulation Panel8
-![alt text](Simulation Panel8.png)
+![alt text](Simulation Panel8.PNG)
 ## OSI8
-![alt text](OSI8.png)
+![alt text](OSI8.PNG)
 ## Project9
-![alt text](Project9.png)
+![alt text](Project9.PNG)
 ## ICMP13
-![alt text](ICMP13.png)
+![alt text](ICMP13.PNG)
 ## Simulation Panel13
-![alt text](Simulation Panel13.png)
+![alt text](Simulation Panel13.PNG)
 ## OSI13
-![alt text](OSI13.png)
+![alt text](OSI13.PNG)
 ## ICMP17
-![alt text](ICMP17.png)
+![alt text](ICMP17.PNG)
 ## ICMP22
-![alt text](ICMP22.png)
+![alt text](ICMP22.PNG)
 
 
 
