@@ -2,14 +2,14 @@
 # TASK 5.1
 
 ## 1login as root
-![alt text](1login as root.png)
+![alt text](1loginasroot.png)
 ## 2passwd
 ![alt text](2passwd.png)
 ## 2.etc/shadow
 ## 3users
 ![alt text](3users.png)
 ## 4personal information
-![alt text](4personal information.png)
+![alt text](4personalinformation.png)
 ## 5info
 ![alt text](5info.png)
 ## 5man
@@ -22,6 +22,6 @@
 ## 6more
 ![alt text](6more.png)
 ## 7finger plan
-![alt text](7finger plan.png)
+![alt text](7fingerplan.png)
 ## 8ls-R
 ![alt text](8ls-R.png)
