@@ -32,8 +32,7 @@
 
 # TASK 5.2
 
-## 1) Examine the tree command. Master the technique of applying a template, for example, display all files that contain a character c,
-## or files that contain a specific sequence of characters. List subdirectories of the root directory up to and including the second nesting level.
+## 1) Examine the tree command. Master the technique of applying a template, for example, display all files that contain a character c, or files that contain a specific sequence of characters. List subdirectories of the root directory up to and including the second nesting level.
 ![alt text](1tree-a-L1.png)
 ![alt text](1tree-d-L1.png)
 ![alt text](1tree-dLR2.png)
@@ -48,7 +47,6 @@
 ## 4) Become familiar with the various options for the ls command. Give examples of listing directories using different keys. Explain the information displayed on the terminal using the -l and -a switches.
 ## list with long format - show permissions
 ## list all files including hidden file starting with '.'
-## 5) Become familiar with the Linux help system and the man and info commands.Get help on the previously discussed commands, define and describe any two keys for these commands. Give examples.
 ## 5) Perform the following sequence of operations:
 ## create a subdirectory in the home directory;
 ## in this subdirectory create a file containing information about directories located in the root directory (using I/O redirection operations);
@@ -84,19 +82,19 @@
 ## 12) Organize a screen-by-screen print of the contents of the /etc directory. Hint: You must use stream redirection operations.
 ![alt text](12screenbyscreen.png)
 ## 13) What are the types of devices and how to determine the type of device? Give examples.
-##Character Device 
+## Character Device 
 ## These devices transfer data, but one a character at a time. You'll see a lot of pseudo devices (/dev/null) as character devices, these devices aren't really physically connected to the machine, but they allow the operating system greater functionality.
 
-##Block Device
-##These devices transfer data, but in large fixed-sized blocks. You'll most commonly see devices that utilize data blocks as block devices, such as harddrives, filesystems, etc.
+## Block Device
+## These devices transfer data, but in large fixed-sized blocks. You'll most commonly see devices that utilize data blocks as block devices, such as harddrives, filesystems, etc.
 
-##Pipe Device
-##Named pipes allow two or more processes to communicate with each other, these are similar to character devices, but instead of having output sent to a device, it's sent to another process.
+## Pipe Device
+## Named pipes allow two or more processes to communicate with each other, these are similar to character devices, but instead of having output sent to a device, it's sent to another process.
 
-##Socket Device
-##Socket devices facilitate communication between processes, similar to pipe devices but they can communicate with many processes at once.
+## Socket Device
+## Socket devices facilitate communication between processes, similar to pipe devices but they can communicate with many processes at once.
 
-##To determine the type of device is used the command: ls -l /dev
+## To determine the type of device is used the command: ls -l /dev
 
 ## c - character
 ## b - block
