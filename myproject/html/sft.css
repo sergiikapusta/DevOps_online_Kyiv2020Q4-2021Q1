@@ -1,0 +1,79 @@
+.sub {
+	font-family: Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+}
+.bod {
+	font-family: "MS Sans Serif";
+	font-size: 10px;
+	color: #000000;
+}
+.sub2 {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	color: #CC0000;
+}
+A {     
+	font-family: "MS Sans Serif";
+	font-size: 10px;
+        Color : #FFFFFF; font-weight: bold;
+	text-decoration : none;
+}
+A:hover { 
+        font-family: "MS Sans Serif";
+	font-size: 10px;
+	Color : #FFFFFF; font-weight: bold;
+	text-decoration : underline;
+}.bodwh {
+	font-family: "MS Sans Serif";
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.sub3 {
+	font-family: Tahoma;
+	font-size: 18px;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.title {
+	font-family: Tahoma;
+	font-size: 24px;
+	font-style: normal;
+	color: #FF6600;
+	font-weight: bold;
+
+}
+.title2 {
+	color: #FFFFFF;
+	font-family: Tahoma;
+	font-size: 24px;
+	font-weight: bold;
+}
+.sub4 {
+	font-family: Tahoma;
+	font-size: 18px;
+	font-weight: bold;
+	color: #C93C4C;
+}
+.sub5 {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+}
+A.side {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: #CC3300;
+	text-decoration: none;
+}
+A.side:hover {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: #CC3300;
+	text-decoration: underline;
+}
