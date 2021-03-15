@@ -1,12 +1,22 @@
+// Declarative //
 pipeline {
-  agent none
-  stages {
-    stage('Stage 5') {
-    agent { docker 'openjdk:8-jre' } 
-      steps {
-        echo 'Hello, JDK'
-                sh 'java -version'
-      }
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building..'
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Testing..'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Deploying....'
+            }
+        }
     }
-  }
-} 
+}
