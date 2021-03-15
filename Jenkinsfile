@@ -5,14 +5,12 @@ pipeline {
     stages {
         stage('Build') {
         agent {
-        	docker {
-        		image 'ubuntu'
-        	       }
+        	dockerfile true
               }
             steps {
                 echo 'Building..'
             }
-        }
+        } 
         stage('Test') {
             steps {
                 echo 'Testing..'
