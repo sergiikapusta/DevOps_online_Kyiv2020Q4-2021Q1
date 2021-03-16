@@ -18,6 +18,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying....'
+                sleep(time:15,unit:"MINUTES")
             }
         }
     }
