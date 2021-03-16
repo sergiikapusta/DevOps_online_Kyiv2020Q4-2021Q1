@@ -1,14 +1,13 @@
 // Declarative //
 pipeline {
-    agent any
+   agent {
+        	dockerfile true
+              }
 
     stages {
         stage('Build') {
-        agent {
-        	dockerfile true
-              }
-            steps {
-                sh 'docker run -dit --name my-running-app -p 8080:80 my-apache2'
+        	steps {
+                echo 'Build..'
             }
         } 
         stage('Test') {
