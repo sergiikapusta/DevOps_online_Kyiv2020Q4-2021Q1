@@ -3,7 +3,7 @@ pipeline {
     agent any
 
     stages {
-        stage('Build1') {
+        stage('Build2) {
         agent {
         	dockerfile true
               }
