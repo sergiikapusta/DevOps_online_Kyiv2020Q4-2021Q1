@@ -7,7 +7,9 @@ pipeline {
         agent {
         	dockerfile true
               }
-            
+            steps {
+                echo 'Building..'
+            }
         } 
         stage('Test') {
             steps {
