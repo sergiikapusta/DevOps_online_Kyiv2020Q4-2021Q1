@@ -1,9 +1,24 @@
+// Declarative //
 pipeline {
-    agent { docker { image 'httpd:2.4' } }
+    agent any
+
     stages {
-        stage('build') {
+        stage('Build1') {
+        agent {
+        	dockerfile true
+              }
             steps {
-                sh 'httpd --version'
+                echo 'Building..'
+            }
+        } 
+        stage('Test') {
+            steps {
+                echo 'Testing..'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Deploying....'
             }
         }
     }
