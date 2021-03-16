@@ -1,9 +1,7 @@
 FROM ubuntu:18.04
-RUN mkdir -p /etc/apt  
-COPY apt.conf /etc/apt`
-RUN apt-get update
-RUN apt-get -y install nmap apache2`
+RUN apt-get update && apt-get -y install sudo nmap apache2 
+RUN useradd -m docker && echo "dokcker:docker" | chpasswd && adduser docker sudo 
+USER docker  
 COPY ./index.html /var/www/html
-CMD apache2ctl -D FOREGROUND
 EXPOSE 80
-
+CMD apache2ctl -D FOREGROUND /bin/bash
