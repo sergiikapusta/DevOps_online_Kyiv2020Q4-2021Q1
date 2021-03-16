@@ -8,7 +8,7 @@ pipeline {
         	dockerfile true
               }
             steps {
-                echo 'Building..'
+                sh 'docker run -dit --name my-running-app -p 8080:80 my-apache2'
             }
         } 
         stage('Test') {
